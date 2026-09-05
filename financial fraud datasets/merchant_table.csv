@@ -1,0 +1,501 @@
+Merchant_ID,Merchant_Name,Merchant_Category,State,City,Merchant_Risk_Level,Merchant_Rating,Merchant_Status,Merchant_Since
+MER100001,Paytm Utilities,Utilities,Haryana,Gurugram,Medium,4.8,Active,29-07-2012
+MER100002,Coursera,Education,Bihar,Patna,Low,4.3,Active,09-03-2008
+MER100003,Redbus,Travel,Bihar,Muzaffarpur,Low,4.7,Active,12-08-2006
+MER100004,Air India,Airline,Tamil Nadu,Salem,Low,3.6,Active,30-03-2008
+MER100005,IndiGo,Airline,Punjab,Jalandhar,Medium,4.1,Active,18-07-2007
+MER100006,Shell Station,Fuel,Gujarat,Surat,Low,4.5,Active,25-02-2016
+MER100007,Swiggy,Food Delivery,Madhya Pradesh,Indore,Low,4.6,Active,28-03-2023
+MER100008,Amazon,Ecommerce,West Bengal,Siliguri,Low,5,Inactive,14-11-2018
+MER100009,Udemy,Education,Assam,Nagaon,Low,5,Active,17-07-2017
+MER100010,Apollo Hospitals,Hospital,Haryana,HOdal,Low,4.9,Active,27-11-2021
+MER100011,Jiomart,Ecommerce,Rajasthan,Alwar,Medium,3.8,Inactive,25-09-2022
+MER100012,Akasa Air,Airline,Uttar Pradesh,Aligarh,Medium,3.6,Active,28-08-2012
+MER100013,Vijay Sales,Electronics,West Bengal,Howrah,Low,4.6,Active,08-03-2020
+MER100014,Ola Cabs,Travel,Punjab,Amritsar,High,4.1,Active,09-04-2024
+MER100015,Unacademy,Education,Gujarat,Gandhinagar,Low,4.7,Active,25-01-2013
+MER100016,Marriott India,Hotel,Rajasthan,Bharatpur,Low,4.8,Active,09-04-2011
+MER100017,Redbus,Travel,Haryana,Nuh,Low,4.1,Active,03-03-2022
+MER100018,Meesho,Ecommerce,Gujarat,Vadodara,Medium,4.4,Active,20-08-2011
+MER100019,Domino's India,Food Delivery,Haryana,Gurugram,Low,4.6,Active,12-10-2014
+MER100020,Jio Prepaid,Utilities,Madhya Pradesh,Ujjain,Low,4.8,Active,29-07-2011
+MER100021,Air India,Airline,Punjab,Amritsar,Low,4.3,Active,21-03-2026
+MER100022,SpiceJet,Airline,West Bengal,Siliguri,High,4.2,Active,21-07-2013
+MER100023,Pharmeasy,Pharmacy,Haryana,Sohna,Medium,4,Active,28-12-2008
+MER100024,Netflix India,Entertainment,Bihar,Gaya,Low,3.7,Active,05-01-2021
+MER100025,Reliance Digital,Electronics,Punjab,Jalandhar,Low,4.1,Active,09-11-2006
+MER100026,BookMyShow,Entertainment,Telangana,Nizamabad,Medium,3.6,Active,30-11-2007
+MER100027,Jio-bp,Fuel,Odisha,Bhubaneswar,Low,4.2,Active,17-09-2006
+MER100028,Max Healthcare,Hospital,Gujarat,Jamnagar,Low,4.3,Active,12-05-2007
+MER100029,Max Healthcare,Hospital,Telangana,Warangal,Low,4.5,Active,18-07-2026
+MER100030,Udemy,Education,Telangana,Warangal,Low,4.4,Active,10-09-2006
+MER100031,Taj Hotels,Hotel,Bihar,Purnia,Low,4.7,Active,20-02-2007
+MER100032,Swiggy,Food Delivery,Gujarat,Jamnagar,Low,4.2,Active,07-07-2015
+MER100033,Trends,Fashion,Punjab,Jalandhar,Medium,3.9,Active,12-04-2016
+MER100034,Samsung SmartCafe,Electronics,Haryana,Sohna,Medium,4.8,Active,30-07-2009
+MER100035,MakeMyTrip,Travel,Bihar,Patna,Medium,4.2,Active,19-11-2021
+MER100036,Vijay Sales,Electronics,Tamil Nadu,Coimbatore,Medium,3.7,Active,18-07-2010
+MER100037,SpiceJet,Airline,Tamil Nadu,Salem,Low,4,Active,11-07-2011
+MER100038,Tata Play,Utilities,Bihar,Gaya,Low,4.9,Active,31-12-2011
+MER100039,Samsung SmartCafe,Electronics,Kerala,Thiruvananthapuram,Medium,4.3,Active,22-01-2019
+MER100040,Tata Cliq,Ecommerce,Odisha,Sambalpur,High,4,Active,24-05-2019
+MER100041,Zepto,Grocery,Punjab,Jalandhar,Medium,3.7,Active,21-10-2023
+MER100042,Physics Wallah,Education,Kerala,Kollam,Low,4.1,Active,14-02-2023
+MER100043,Amazon,Ecommerce,Telangana,Khammam,High,3.9,Active,16-05-2025
+MER100044,Netmeds,Pharmacy,Assam,Guwahati,Low,4.9,Active,12-02-2020
+MER100045,Apollo Pharmacy,Pharmacy,Odisha,Cuttack,Low,4.7,Active,08-02-2020
+MER100046,Snapdeal,Ecommerce,Rajasthan,Alwar,High,4,Active,19-01-2017
+MER100047,MakeMyTrip Hotels,Hotel,Assam,Dibrugarh,High,4.4,Active,30-08-2013
+MER100048,BYJU'S,Education,Uttar Pradesh,Meerut,Medium,4,Active,24-09-2011
+MER100049,Airtel Postpaid,Utilities,West Bengal,Kolkata,Low,4.1,Active,12-09-2021
+MER100050,Pharmeasy,Pharmacy,Gujarat,Gandhinagar,Medium,4.4,Active,10-07-2018
+MER100051,Taj Hotels,Hotel,Madhya Pradesh,Ujjain,Medium,4.4,Active,05-08-2009
+MER100052,Zara India,Fashion,Rajasthan,Alwar,Low,4.5,Active,12-04-2017
+MER100053,PhonePe,Financial Services,Madhya Pradesh,Indore,Low,4.4,Active,25-06-2011
+MER100054,HP Lubricants,Fuel,Tamil Nadu,Salem,Low,3.8,Active,07-02-2012
+MER100055,Akasa Air,Airline,Haryana,Faridabad,Low,4.3,Active,04-09-2022
+MER100056,Netflix India,Entertainment,Haryana,Palwal,Low,4,Inactive,25-06-2007
+MER100057,Reliance Digital,Electronics,Uttar Pradesh,Aligarh,Medium,4.3,Active,13-12-2015
+MER100058,Fortis Healthcare,Hospital,Odisha,Cuttack,Low,4.8,Active,08-01-2025
+MER100059,IndiGo,Airline,Tamil Nadu,Chennai,High,4.9,Active,21-10-2023
+MER100060,MakeMyTrip Hotels,Hotel,Uttar Pradesh,Lucknow,Low,4.5,Active,07-02-2018
+MER100061,Zara India,Fashion,Uttar Pradesh,Lucknow,Low,4.7,Active,23-04-2018
+MER100062,Samsung SmartCafe,Electronics,Gujarat,Gandhinagar,High,3.5,Active,01-10-2021
+MER100063,Unacademy,Education,Uttar Pradesh,Ghaziabad,Low,3.6,Active,01-02-2020
+MER100064,Netflix India,Entertainment,Madhya Pradesh,Jabalpur,Low,4.9,Active,02-04-2011
+MER100065,Wellness Forever,Pharmacy,Odisha,Bhubaneswar,High,3.5,Active,06-06-2023
+MER100066,Zepto,Grocery,Rajasthan,Bharatpur,Low,4.5,Active,07-10-2016
+MER100067,Wellness Forever,Pharmacy,Haryana,HOdal,Low,4.4,Active,29-09-2019
+MER100068,Amazon,Ecommerce,Assam,Nagaon,Low,3.7,Active,18-04-2018
+MER100069,Samsung SmartCafe,Electronics,Rajasthan,Bharatpur,Low,3.9,Active,23-10-2025
+MER100070,Fortis Healthcare,Hospital,Madhya Pradesh,Gwalior,Low,4,Active,16-08-2006
+MER100071,Taj Hotels,Hotel,Kerala,Thiruvananthapuram,Medium,4.5,Active,19-07-2025
+MER100072,Taj Hotels,Hotel,Rajasthan,Bikaner,Medium,3.9,Active,03-04-2012
+MER100073,Jiomart,Ecommerce,Madhya Pradesh,Gwalior,Low,4.4,Active,09-09-2023
+MER100074,Bharat Petroleum,Fuel,Assam,Guwahati,Low,4.1,Active,25-02-2026
+MER100075,Shell Station,Fuel,Punjab,Ludhiana,Low,4.2,Active,14-07-2009
+MER100076,Vijay Sales,Electronics,Karnataka,Bengaluru,Low,4.2,Active,05-05-2016
+MER100077,Max Healthcare,Hospital,West Bengal,Durgapur,Low,4.9,Active,22-09-2020
+MER100078,Shell Station,Fuel,Madhya Pradesh,Ujjain,Low,4.4,Active,27-06-2019
+MER100079,Trends,Fashion,Gujarat,Jamnagar,Low,4.8,Active,22-03-2012
+MER100080,Jiomart,Ecommerce,Bihar,Bhagalpur,Medium,4.4,Active,06-04-2014
+MER100081,Akasa Air,Airline,Rajasthan,Bikaner,Low,4,Active,08-01-2012
+MER100082,Nykaa,Fashion,Uttar Pradesh,Kanpur,Low,4.3,Active,27-04-2017
+MER100083,Manipal Hospitals,Hospital,Tamil Nadu,Tiruchirappalli,Medium,4.3,Active,05-07-2023
+MER100084,HP Lubricants,Fuel,Kerala,Thiruvananthapuram,Low,4.7,Active,23-08-2023
+MER100085,Nykaa,Fashion,Punjab,Amritsar,Medium,4.9,Active,25-11-2024
+MER100086,Taj Hotels,Hotel,Madhya Pradesh,Indore,Medium,4.3,Active,30-09-2007
+MER100087,Apple Store,Electronics,Maharashtra,Mumbai,Medium,3.9,Active,05-11-2017
+MER100088,Indian Oil,Fuel,Gujarat,Bhavnagar,Low,4,Inactive,08-11-2008
+MER100089,Flipkart,Ecommerce,Madhya Pradesh,Ujjain,High,4.8,Active,06-05-2020
+MER100090,SpiceJet,Airline,West Bengal,Howrah,Low,5,Active,05-12-2010
+MER100091,Netmeds,Pharmacy,Assam,Jorhat,Low,4.1,Active,24-02-2013
+MER100092,Air India,Airline,Bihar,Muzaffarpur,High,3.9,Active,04-06-2011
+MER100093,Jio-bp,Fuel,Rajasthan,Jodhpur,Low,3.5,Active,14-01-2011
+MER100094,Croma,Electronics,Madhya Pradesh,Jabalpur,Medium,4,Active,03-11-2019
+MER100095,Shell Station,Fuel,Uttar Pradesh,Kanpur,Low,3.7,Active,04-06-2013
+MER100096,EatClub,Food Delivery,Karnataka,Mysuru,High,3.7,Active,04-07-2007
+MER100097,Coursera,Education,Odisha,Bhubaneswar,Low,4.4,Active,21-09-2010
+MER100098,Swiggy,Food Delivery,Gujarat,Rajkot,Low,4.3,Active,24-11-2006
+MER100099,Cashfree,Financial Services,Rajasthan,Kota,Low,4.4,Active,06-11-2009
+MER100100,Pizza Hut,Food Delivery,Uttar Pradesh,Aligarh,Low,4,Active,28-05-2023
+MER100101,Snapdeal,Ecommerce,Gujarat,Bhavnagar,Medium,4.6,Active,16-04-2010
+MER100102,MakeMyTrip Hotels,Hotel,Assam,Silchar,High,4,Active,23-10-2013
+MER100103,Razorpay,Financial Services,Telangana,Nizamabad,Low,4.8,Active,16-11-2022
+MER100104,Ajio,Fashion,West Bengal,Kolkata,Medium,4.7,Active,07-08-2015
+MER100105,Cashfree,Financial Services,Rajasthan,Bharatpur,High,5,Active,11-08-2008
+MER100106,Uber India,Travel,Gujarat,Jamnagar,Low,4.2,Active,22-04-2008
+MER100107,PayU,Financial Services,Uttar Pradesh,Lucknow,Low,4.9,Active,20-04-2019
+MER100108,Wellness Forever,Pharmacy,Punjab,Jalandhar,High,5,Active,22-01-2026
+MER100109,EaseMyTrip,Travel,Assam,Dibrugarh,Low,4.1,Active,21-09-2011
+MER100110,Apollo Hospitals,Hospital,Odisha,Sambalpur,Low,4.2,Active,25-07-2017
+MER100111,Swiggy,Food Delivery,Punjab,Jalandhar,High,4.1,Active,23-08-2012
+MER100112,Akasa Air,Airline,Karnataka,Belagavi,Medium,4.5,Active,12-03-2013
+MER100113,Redbus,Travel,Karnataka,Belagavi,Low,4.7,Active,26-09-2012
+MER100114,Flipkart,Ecommerce,Karnataka,Mysuru,Low,4.9,Active,28-03-2008
+MER100115,Spotify,Entertainment,West Bengal,Kolkata,High,3.9,Active,05-07-2025
+MER100116,Goibibo,Travel,Tamil Nadu,Madurai,Low,4.9,Active,11-09-2016
+MER100117,Tata Cliq,Ecommerce,Telangana,Warangal,Low,4.5,Active,23-04-2010
+MER100118,Spotify,Entertainment,Odisha,Bhubaneswar,Low,4.8,Active,05-10-2020
+MER100119,Netmeds,Pharmacy,Punjab,Bathinda,Low,3.8,Active,10-06-2009
+MER100120,Apollo Hospitals,Hospital,Maharashtra,Nagpur,Low,3.6,Inactive,14-08-2015
+MER100121,Myntra,Fashion,Gujarat,Bhavnagar,Low,4.6,Active,03-08-2006
+MER100122,Swiggy,Food Delivery,Haryana,Gurugram,Low,4.6,Active,16-12-2007
+MER100123,Tata Cliq,Ecommerce,Gujarat,Jamnagar,Low,4.4,Active,29-01-2012
+MER100124,Manipal Hospitals,Hospital,Bihar,Patna,Low,3.9,Active,17-11-2016
+MER100125,Tata Cliq,Ecommerce,Assam,Guwahati,Medium,4,Active,18-05-2009
+MER100126,BYJU'S,Education,Uttar Pradesh,Kanpur,Low,4.8,Active,07-09-2007
+MER100127,Ajio,Fashion,Telangana,Karimnagar,Low,4.1,Active,14-02-2013
+MER100128,Netmeds,Pharmacy,Odisha,Cuttack,Low,4.3,Active,04-12-2012
+MER100129,BYJU'S,Education,Odisha,Rourkela,Low,4.6,Active,19-04-2017
+MER100130,Marriott India,Hotel,Maharashtra,Aurangabad,Low,4.4,Active,27-04-2021
+MER100131,Croma,Electronics,Haryana,Sohna,Medium,5,Active,06-01-2021
+MER100132,IndiGo,Airline,Odisha,Rourkela,Low,4.2,Active,05-12-2024
+MER100133,Vi Bill,Utilities,Gujarat,Ahmedabad,Medium,4.3,Active,16-11-2022
+MER100134,EatClub,Food Delivery,Assam,Nagaon,Low,4.7,Active,09-02-2016
+MER100135,PhonePe,Financial Services,Karnataka,Mangaluru,Medium,4.3,Active,06-02-2022
+MER100136,Cashfree,Financial Services,West Bengal,Kolkata,Medium,4.4,Active,31-01-2026
+MER100137,Amazon Prime Video,Entertainment,Bihar,Gaya,Low,4.7,Active,11-05-2019
+MER100138,IndiGo,Airline,Assam,Jorhat,High,3.9,Active,03-07-2017
+MER100139,Domino's India,Food Delivery,West Bengal,Kolkata,Medium,4.3,Active,13-05-2025
+MER100140,Udemy,Education,Madhya Pradesh,Gwalior,High,4.2,Active,13-06-2011
+MER100141,Air India,Airline,Odisha,Cuttack,High,4.8,Active,09-04-2012
+MER100142,Trends,Fashion,Punjab,Jalandhar,Low,4.6,Active,07-09-2020
+MER100143,Pizza Hut,Food Delivery,West Bengal,Kolkata,Low,4,Active,11-06-2019
+MER100144,Max Healthcare,Hospital,West Bengal,Durgapur,Low,4.2,Active,10-04-2020
+MER100145,Zepto,Grocery,Haryana,Gurugram,Medium,3.8,Active,30-03-2014
+MER100146,H&M India,Fashion,Telangana,Warangal,High,4.1,Active,26-01-2026
+MER100147,Jio-bp,Fuel,Haryana,HOdal,Low,4.1,Active,12-07-2023
+MER100148,Samsung SmartCafe,Electronics,West Bengal,Asansol,Low,4.8,Active,08-04-2015
+MER100149,Shell Station,Fuel,Rajasthan,Alwar,Low,4.8,Active,08-08-2020
+MER100150,Unacademy,Education,Haryana,Sohna,Medium,5,Active,31-12-2006
+MER100151,HP Lubricants,Fuel,Assam,Dibrugarh,Low,3.9,Active,12-08-2010
+MER100152,Taj Hotels,Hotel,Uttar Pradesh,Meerut,High,5,Active,21-11-2022
+MER100153,Swiggy,Food Delivery,Tamil Nadu,Madurai,Low,3.7,Active,21-05-2016
+MER100154,Zara India,Fashion,Odisha,Cuttack,Medium,4.6,Active,21-12-2011
+MER100155,Swiggy,Food Delivery,Odisha,Puri,Low,4.5,Active,12-10-2025
+MER100156,BookMyShow,Entertainment,Tamil Nadu,Tiruchirappalli,High,5,Active,08-12-2019
+MER100157,Google Pay,Financial Services,Assam,Dibrugarh,Medium,4.2,Active,24-09-2008
+MER100158,Uber India,Travel,Rajasthan,Udaipur,Low,4.8,Active,21-01-2010
+MER100159,MakeMyTrip Hotels,Hotel,Madhya Pradesh,Jabalpur,Low,4,Active,12-10-2021
+MER100160,Airtel Postpaid,Utilities,Kerala,Kollam,Low,4,Active,16-12-2018
+MER100161,Apollo Pharmacy,Pharmacy,Odisha,Sambalpur,Low,3.7,Active,20-08-2022
+MER100162,Zepto,Grocery,Punjab,Jalandhar,High,4.3,Active,27-02-2025
+MER100163,Netmeds,Pharmacy,Gujarat,Vadodara,High,4.4,Active,05-04-2010
+MER100164,Swiggy,Food Delivery,West Bengal,Howrah,Medium,3.8,Active,11-04-2019
+MER100165,Netmeds,Pharmacy,Madhya Pradesh,Bhopal,Low,3.8,Active,07-05-2011
+MER100166,Air India,Airline,Karnataka,Belagavi,Low,3.5,Inactive,17-12-2011
+MER100167,Reliance Digital,Electronics,Uttar Pradesh,Kanpur,Low,4.5,Active,23-06-2018
+MER100168,Jiomart,Ecommerce,Kerala,Kozhikode,Low,4.2,Active,10-07-2010
+MER100169,IndiGo,Airline,Madhya Pradesh,Jabalpur,Low,3.9,Active,21-12-2009
+MER100170,PVR Inox,Entertainment,Odisha,Puri,Low,4.9,Active,31-07-2020
+MER100171,IndiGo,Airline,Assam,Dibrugarh,Medium,4.7,Active,05-03-2024
+MER100172,Reliance Smart,Grocery,Tamil Nadu,Salem,Low,4.1,Active,19-02-2021
+MER100173,Taj Hotels,Hotel,Kerala,Kochi,Low,3.8,Active,28-12-2007
+MER100174,Shell Station,Fuel,Gujarat,Vadodara,Low,4.1,Active,15-01-2024
+MER100175,PayU,Financial Services,Bihar,Patna,High,4.1,Active,20-02-2008
+MER100176,Jio-bp,Fuel,Tamil Nadu,Coimbatore,Low,4.3,Active,15-12-2020
+MER100177,HP Lubricants,Fuel,Maharashtra,Nashik,Low,4.7,Active,09-10-2009
+MER100178,Zara India,Fashion,Tamil Nadu,Salem,Low,4.8,Active,08-12-2018
+MER100179,SpiceJet,Airline,Rajasthan,Jodhpur,High,5,Active,13-05-2019
+MER100180,Trends,Fashion,Karnataka,Belagavi,Medium,3.6,Active,26-08-2017
+MER100181,IndiGo,Airline,Tamil Nadu,Salem,Low,4.4,Active,29-11-2016
+MER100182,EaseMyTrip,Travel,Rajasthan,Bharatpur,Medium,3.9,Active,22-05-2020
+MER100183,Goibibo,Travel,Bihar,Patna,Low,4.9,Active,08-03-2015
+MER100184,Apollo Hospitals,Hospital,Telangana,Warangal,Low,4.5,Active,13-07-2024
+MER100185,Coursera,Education,Gujarat,Jamnagar,Low,4.8,Active,14-04-2009
+MER100186,Torrent Power,Utilities,Rajasthan,Alwar,Low,4.6,Inactive,02-03-2008
+MER100187,Netmeds,Pharmacy,Haryana,HOdal,Medium,4.7,Active,09-04-2016
+MER100188,Fortis Healthcare,Hospital,Assam,Dibrugarh,Low,4.6,Active,17-04-2018
+MER100189,Apollo Hospitals,Hospital,Tamil Nadu,Chennai,Low,4.6,Active,03-11-2012
+MER100190,Physics Wallah,Education,Haryana,Nuh,Low,3.9,Active,17-01-2012
+MER100191,Netflix India,Entertainment,Tamil Nadu,Chennai,High,4.6,Active,08-10-2017
+MER100192,Indian Oil,Fuel,Karnataka,Belagavi,Low,4,Active,26-07-2011
+MER100193,Vi Bill,Utilities,Uttar Pradesh,Aligarh,Low,4.5,Active,12-10-2020
+MER100194,Shell Station,Fuel,Karnataka,Mangaluru,Medium,4.1,Active,19-03-2026
+MER100195,Cashfree,Financial Services,Telangana,Warangal,Medium,4.4,Active,28-07-2018
+MER100196,Paytm,Financial Services,West Bengal,Asansol,Low,3.6,Active,04-04-2022
+MER100197,Zepto,Grocery,Bihar,Muzaffarpur,Low,3.5,Active,03-07-2012
+MER100198,Physics Wallah,Education,Telangana,Khammam,Low,4.3,Active,07-02-2010
+MER100199,Ola Cabs,Travel,Maharashtra,Nashik,Low,4.4,Active,16-05-2009
+MER100200,Fortis Healthcare,Hospital,Punjab,Jalandhar,Low,3.9,Active,30-04-2007
+MER100201,Wellness Forever,Pharmacy,Punjab,Patiala,Medium,3.7,Active,12-06-2007
+MER100202,Amazon,Ecommerce,Haryana,HOdal,Medium,3.7,Active,08-08-2007
+MER100203,Paytm Utilities,Utilities,Karnataka,Bengaluru,Low,4.7,Active,27-05-2010
+MER100204,Paytm Utilities,Utilities,West Bengal,Durgapur,High,4.6,Active,08-04-2008
+MER100205,Physics Wallah,Education,Kerala,Kozhikode,Low,4.4,Active,05-06-2025
+MER100206,Zepto,Grocery,Uttar Pradesh,Varanasi,Low,4.1,Active,13-02-2022
+MER100207,Google Pay,Financial Services,Assam,Guwahati,Medium,4.7,Active,24-03-2017
+MER100208,Torrent Power,Utilities,Maharashtra,Mumbai,Medium,4.4,Active,02-03-2021
+MER100209,MakeMyTrip Hotels,Hotel,Assam,Jorhat,Low,4.4,Active,06-02-2012
+MER100210,Fortis Healthcare,Hospital,Gujarat,Vadodara,Low,4.1,Active,01-08-2015
+MER100211,Jiomart,Ecommerce,Gujarat,Bhavnagar,Low,4.2,Active,09-12-2023
+MER100212,Amazon Prime Video,Entertainment,Gujarat,Vadodara,Low,4.1,Active,28-09-2017
+MER100213,Google Pay,Financial Services,Odisha,Bhubaneswar,Low,4.6,Active,04-11-2014
+MER100214,Manipal Hospitals,Hospital,West Bengal,Siliguri,Low,3.6,Active,18-09-2025
+MER100215,Zepto,Grocery,Odisha,Cuttack,Low,4.8,Active,17-04-2018
+MER100216,Croma,Electronics,Assam,Guwahati,Low,3.6,Active,05-10-2023
+MER100217,Max Healthcare,Hospital,Punjab,Amritsar,Low,4.5,Active,06-12-2008
+MER100218,Nykaa,Fashion,Punjab,Jalandhar,High,4.4,Active,22-05-2008
+MER100219,Reliance Digital,Electronics,Karnataka,Belagavi,Low,3.5,Active,17-06-2025
+MER100220,Max Healthcare,Hospital,West Bengal,Kolkata,Low,3.9,Active,14-01-2023
+MER100221,Swiggy,Food Delivery,Karnataka,Mangaluru,Low,4.3,Active,08-07-2009
+MER100222,Razorpay,Financial Services,Telangana,Karimnagar,Medium,4,Active,18-10-2014
+MER100223,PVR Inox,Entertainment,West Bengal,Howrah,Low,4.2,Active,18-11-2015
+MER100224,Air India,Airline,Kerala,Kochi,Low,4.8,Active,29-03-2023
+MER100225,Vi Bill,Utilities,Bihar,Bhagalpur,Medium,3.6,Active,24-09-2017
+MER100226,BYJU'S,Education,Assam,Nagaon,High,3.6,Active,05-10-2022
+MER100227,Uber India,Travel,Tamil Nadu,Chennai,Low,3.8,Active,08-05-2019
+MER100228,Trends,Fashion,Assam,Jorhat,Medium,4.5,Active,04-04-2023
+MER100229,Marriott India,Hotel,Haryana,Faridabad,Low,4.8,Active,13-08-2025
+MER100230,Shell Station,Fuel,Punjab,Patiala,Low,5,Active,20-05-2012
+MER100231,Amazon Prime Video,Entertainment,Kerala,Thiruvananthapuram,Medium,4.6,Active,29-11-2013
+MER100232,Tata 1mg,Pharmacy,Rajasthan,Jodhpur,Low,4.6,Active,23-11-2024
+MER100233,Tata 1mg,Pharmacy,Tamil Nadu,Chennai,Medium,4.7,Active,15-09-2019
+MER100234,Uber India,Travel,Tamil Nadu,Salem,Low,3.8,Active,09-01-2007
+MER100235,Akasa Air,Airline,Punjab,Amritsar,High,3.9,Active,09-08-2007
+MER100236,BYJU'S,Education,Odisha,Bhubaneswar,Low,4.3,Active,12-12-2015
+MER100237,OYO Rooms,Hotel,Bihar,Gaya,High,4.4,Active,27-02-2019
+MER100238,Nykaa,Fashion,Karnataka,Mysuru,Low,4.8,Active,12-09-2021
+MER100239,PVR Inox,Entertainment,Odisha,Sambalpur,Low,3.7,Inactive,05-03-2013
+MER100240,Redbus,Travel,Maharashtra,KOlhapur,Low,4.3,Active,16-10-2010
+MER100241,Indian Oil,Fuel,Assam,Jorhat,Medium,3.7,Active,06-01-2024
+MER100242,Zepto,Grocery,Gujarat,Ahmedabad,Low,3.7,Active,26-08-2018
+MER100243,Ajio,Fashion,Gujarat,Jamnagar,Low,4.5,Active,02-10-2024
+MER100244,SpiceJet,Airline,Gujarat,Jamnagar,Low,4.8,Active,04-08-2019
+MER100245,Cashfree,Financial Services,Uttar Pradesh,Kanpur,Medium,4.7,Active,04-05-2026
+MER100246,Pizza Hut,Food Delivery,Maharashtra,Mumbai,Low,4.7,Active,19-02-2008
+MER100247,Domino's India,Food Delivery,Tamil Nadu,Chennai,Medium,4.3,Active,15-01-2007
+MER100248,Vi Bill,Utilities,Assam,Jorhat,Medium,4.3,Active,16-02-2009
+MER100249,MakeMyTrip Hotels,Hotel,Kerala,Kollam,High,3.9,Active,11-10-2016
+MER100250,IRCTC,Travel,Punjab,Ludhiana,Low,3.9,Active,04-01-2024
+MER100251,EaseMyTrip,Travel,Rajasthan,Kota,Low,4.5,Active,13-03-2015
+MER100252,Trends,Fashion,Assam,Jorhat,High,3.9,Active,29-12-2016
+MER100253,Cashfree,Financial Services,Punjab,Ludhiana,Medium,3.8,Active,13-05-2008
+MER100254,Fortis Healthcare,Hospital,Uttar Pradesh,Ghaziabad,High,4.4,Active,17-12-2014
+MER100255,Jiomart,Ecommerce,Uttar Pradesh,Kanpur,Medium,4.2,Active,08-02-2019
+MER100256,Cashfree,Financial Services,Tamil Nadu,Chennai,Medium,4.3,Active,21-04-2022
+MER100257,Shell Station,Fuel,Assam,Silchar,Low,4.2,Active,28-03-2026
+MER100258,Spotify,Entertainment,Gujarat,Bhavnagar,Medium,4.7,Active,26-04-2018
+MER100259,Netflix India,Entertainment,Kerala,Thiruvananthapuram,Low,3.7,Active,21-11-2015
+MER100260,Reliance Smart,Grocery,Gujarat,Bhavnagar,Low,5,Active,26-10-2023
+MER100261,Coursera,Education,Haryana,Gurugram,Low,4.8,Active,26-03-2014
+MER100262,Paytm,Financial Services,Uttar Pradesh,Lucknow,Medium,3.9,Inactive,26-01-2012
+MER100263,BookMyShow,Entertainment,Punjab,Ludhiana,Medium,4.6,Active,29-10-2008
+MER100264,Max Healthcare,Hospital,West Bengal,Howrah,Low,3.7,Active,01-11-2007
+MER100265,Pizza Hut,Food Delivery,Odisha,Sambalpur,Low,4.5,Active,23-02-2025
+MER100266,Akasa Air,Airline,Rajasthan,Bikaner,Low,3.7,Active,17-07-2011
+MER100267,Taj Hotels,Hotel,Punjab,Ludhiana,Low,3.6,Active,09-12-2010
+MER100268,Wellness Forever,Pharmacy,Tamil Nadu,Madurai,Low,4.2,Active,15-10-2023
+MER100269,Zepto,Grocery,Haryana,Faridabad,Low,4.1,Active,04-10-2007
+MER100270,Zomato,Food Delivery,Tamil Nadu,Madurai,Low,3.7,Active,24-05-2019
+MER100271,IndiGo,Airline,Kerala,Thrissur,Low,4.6,Active,10-05-2009
+MER100272,Airtel Postpaid,Utilities,Gujarat,Jamnagar,Medium,4.1,Active,07-02-2017
+MER100273,Ajio,Fashion,Gujarat,Surat,Low,4.3,Active,24-10-2007
+MER100274,Croma,Electronics,Uttar Pradesh,Lucknow,Medium,4.6,Active,30-06-2023
+MER100275,Redbus,Travel,Maharashtra,Thane,Medium,4.8,Inactive,26-02-2017
+MER100276,OYO Rooms,Hotel,Tamil Nadu,Madurai,Medium,4.2,Active,29-06-2019
+MER100277,Cashfree,Financial Services,Kerala,Kozhikode,Medium,4,Active,01-08-2017
+MER100278,Meesho,Ecommerce,Gujarat,Bhavnagar,High,4.4,Active,12-10-2008
+MER100279,BigBasket,Grocery,Madhya Pradesh,Bhopal,Low,4.2,Active,17-02-2014
+MER100280,Flipkart,Ecommerce,Assam,Guwahati,Low,3.7,Active,05-06-2018
+MER100281,Jio-bp,Fuel,Kerala,Kozhikode,Low,4.1,Active,28-03-2018
+MER100282,PayU,Financial Services,Madhya Pradesh,Bhopal,Medium,4.2,Active,26-09-2011
+MER100283,EatClub,Food Delivery,Maharashtra,KOlhapur,Low,3.9,Active,18-04-2015
+MER100284,Jio-bp,Fuel,Punjab,Jalandhar,Medium,4.2,Active,24-06-2022
+MER100285,Instamart,Grocery,Odisha,Puri,Medium,4.9,Active,20-02-2019
+MER100286,Cashfree,Financial Services,Uttar Pradesh,Ghaziabad,High,4.5,Active,11-10-2008
+MER100287,Unacademy,Education,Karnataka,Hubballi-Dharwad,Low,3.7,Active,10-09-2016
+MER100288,Tata Cliq,Ecommerce,Bihar,Muzaffarpur,High,4,Active,16-05-2026
+MER100289,BookMyShow,Entertainment,Gujarat,Vadodara,Low,4.1,Active,16-10-2018
+MER100290,DMart,Grocery,Madhya Pradesh,Jabalpur,Low,4.4,Active,08-09-2016
+MER100291,Tata Cliq,Ecommerce,Haryana,Palwal,High,4.9,Active,05-12-2019
+MER100292,Air India,Airline,Kerala,Kozhikode,Low,4.9,Active,19-11-2006
+MER100293,MakeMyTrip Hotels,Hotel,Karnataka,Mysuru,Low,4.2,Active,10-10-2018
+MER100294,MakeMyTrip Hotels,Hotel,Odisha,Cuttack,Medium,4.6,Active,26-04-2020
+MER100295,Max Healthcare,Hospital,Tamil Nadu,Madurai,Low,4.7,Active,06-03-2009
+MER100296,Swiggy,Food Delivery,Gujarat,Surat,Medium,4.3,Active,11-12-2006
+MER100297,Jio-bp,Fuel,Bihar,Gaya,Low,3.6,Active,08-06-2009
+MER100298,Reliance Smart,Grocery,Maharashtra,Pune,Low,4.7,Active,24-12-2012
+MER100299,Zomato,Food Delivery,Uttar Pradesh,Lucknow,Low,4.6,Active,06-09-2021
+MER100300,Domino's India,Food Delivery,Tamil Nadu,Madurai,Low,3.7,Active,26-04-2020
+MER100301,Myntra,Fashion,West Bengal,Asansol,Medium,4.2,Active,13-03-2024
+MER100302,Redbus,Travel,Madhya Pradesh,Indore,Medium,4.4,Active,03-06-2017
+MER100303,Coursera,Education,Uttar Pradesh,Varanasi,Medium,4,Active,06-05-2010
+MER100304,PhonePe,Financial Services,Telangana,Khammam,Low,4.4,Active,20-01-2022
+MER100305,Manipal Hospitals,Hospital,Bihar,Muzaffarpur,High,4.9,Active,21-05-2007
+MER100306,Swiggy,Food Delivery,Kerala,Kollam,Low,4.9,Active,27-02-2023
+MER100307,Meesho,Ecommerce,Kerala,Thrissur,Low,3.5,Active,10-03-2012
+MER100308,Coursera,Education,Bihar,Gaya,Low,4,Active,07-10-2016
+MER100309,HP Lubricants,Fuel,Tamil Nadu,Madurai,Low,4,Active,07-08-2017
+MER100310,Paytm Utilities,Utilities,Maharashtra,Pune,Low,3.8,Active,05-02-2025
+MER100311,Torrent Power,Utilities,Gujarat,Rajkot,Low,4.2,Active,22-10-2012
+MER100312,PayU,Financial Services,West Bengal,Kolkata,Low,4.1,Active,24-01-2010
+MER100313,IRCTC,Travel,Tamil Nadu,Coimbatore,Low,4.7,Active,08-02-2026
+MER100314,BookMyShow,Entertainment,Odisha,Bhubaneswar,Medium,4.4,Active,29-01-2014
+MER100315,Vi Bill,Utilities,Kerala,Kollam,Low,4,Active,14-07-2025
+MER100316,PVR Inox,Entertainment,Maharashtra,Nagpur,Low,4.3,Active,20-08-2013
+MER100317,Pharmeasy,Pharmacy,Telangana,Nizamabad,Low,4.7,Active,14-09-2007
+MER100318,Udemy,Education,Gujarat,Vadodara,Low,4.7,Active,26-08-2019
+MER100319,Uber India,Travel,Rajasthan,Bharatpur,Medium,4.8,Active,24-07-2010
+MER100320,Pharmeasy,Pharmacy,Maharashtra,Mumbai,Low,4.8,Active,21-03-2026
+MER100321,Amazon Prime Video,Entertainment,Rajasthan,Jodhpur,Low,3.7,Active,20-02-2010
+MER100322,Samsung SmartCafe,Electronics,Telangana,Karimnagar,Low,4.1,Active,02-01-2011
+MER100323,OYO Rooms,Hotel,Kerala,Kozhikode,Low,4.8,Active,18-10-2014
+MER100324,Amazon Prime Video,Entertainment,Bihar,Muzaffarpur,Medium,4.8,Active,23-01-2009
+MER100325,Ola Cabs,Travel,Madhya Pradesh,Bhopal,Low,4.1,Active,09-07-2008
+MER100326,Ola Cabs,Travel,Haryana,HOdal,High,4.5,Active,04-07-2012
+MER100327,PVR Inox,Entertainment,Bihar,Purnia,Medium,4.6,Active,18-05-2010
+MER100328,Netflix India,Entertainment,Rajasthan,Kota,High,4.7,Active,22-09-2012
+MER100329,Manipal Hospitals,Hospital,Uttar Pradesh,Kanpur,Low,4.3,Active,20-11-2020
+MER100330,OYO Rooms,Hotel,Gujarat,Jamnagar,Low,3.6,Active,21-05-2020
+MER100331,Myntra,Fashion,Karnataka,Bengaluru,High,5,Active,08-12-2025
+MER100332,Apollo Pharmacy,Pharmacy,Madhya Pradesh,Indore,High,4.5,Active,11-09-2009
+MER100333,Vijay Sales,Electronics,Haryana,Faridabad,Medium,4.7,Active,26-09-2010
+MER100334,Marriott India,Hotel,Assam,Silchar,Low,4.3,Active,29-06-2016
+MER100335,Vijay Sales,Electronics,Tamil Nadu,Tiruchirappalli,Low,4.4,Active,31-01-2018
+MER100336,Taj Hotels,Hotel,Uttar Pradesh,Agra,Medium,4.9,Active,01-11-2014
+MER100337,Airtel Postpaid,Utilities,Karnataka,Mysuru,Low,4.7,Active,05-03-2008
+MER100338,Zomato,Food Delivery,Bihar,Gaya,Low,3.9,Active,05-09-2009
+MER100339,PayU,Financial Services,Gujarat,Gandhinagar,Medium,4.3,Active,26-08-2011
+MER100340,EatClub,Food Delivery,Uttar Pradesh,Ghaziabad,Medium,4.9,Active,26-11-2023
+MER100341,PVR Inox,Entertainment,Madhya Pradesh,Ujjain,Low,3.9,Active,17-12-2008
+MER100342,Apollo Hospitals,Hospital,Gujarat,Gandhinagar,Low,4.9,Active,22-07-2006
+MER100343,Wellness Forever,Pharmacy,Madhya Pradesh,Gwalior,Low,4.2,Active,19-09-2017
+MER100344,Spotify,Entertainment,Maharashtra,Nagpur,Medium,4.8,Active,07-07-2011
+MER100345,IndiGo,Airline,Tamil Nadu,Madurai,Low,3.6,Active,15-06-2023
+MER100346,Samsung SmartCafe,Electronics,Odisha,Cuttack,Low,4.9,Active,13-01-2008
+MER100347,Yatra,Travel,Haryana,Palwal,Medium,3.6,Active,26-08-2011
+MER100348,Max Healthcare,Hospital,Karnataka,Bengaluru,Medium,3.8,Active,08-06-2026
+MER100349,Torrent Power,Utilities,Telangana,Karimnagar,Low,4.9,Active,05-05-2019
+MER100350,Zomato,Food Delivery,Tamil Nadu,Coimbatore,Low,4.2,Active,06-04-2025
+MER100351,Manipal Hospitals,Hospital,Bihar,Muzaffarpur,Medium,4.1,Active,21-11-2014
+MER100352,Jiomart,Ecommerce,Gujarat,Gandhinagar,High,4.1,Active,09-07-2020
+MER100353,Blinkit,Grocery,Telangana,Karimnagar,High,4.7,Active,20-05-2023
+MER100354,Netmeds,Pharmacy,Assam,Nagaon,Low,3.6,Active,24-10-2025
+MER100355,Amazon,Ecommerce,Tamil Nadu,Salem,Low,4.9,Active,01-10-2024
+MER100356,Myntra,Fashion,Assam,Guwahati,Low,4.2,Active,03-05-2018
+MER100357,Coursera,Education,Tamil Nadu,Salem,Low,4,Active,12-11-2022
+MER100358,Ola Cabs,Travel,Uttar Pradesh,Noida,High,3.5,Active,30-06-2018
+MER100359,Air India,Airline,Haryana,Palwal,Low,4.3,Active,22-07-2006
+MER100360,Taj Hotels,Hotel,Madhya Pradesh,Indore,Low,4.3,Active,22-01-2012
+MER100361,Pharmeasy,Pharmacy,Assam,Guwahati,Medium,4.7,Active,09-11-2009
+MER100362,Zepto,Grocery,Punjab,Ludhiana,Low,4.7,Active,24-09-2009
+MER100363,Myntra,Fashion,Rajasthan,Alwar,Low,4.4,Active,22-12-2024
+MER100364,Apollo Hospitals,Hospital,Telangana,Khammam,Medium,3.8,Active,25-02-2013
+MER100365,Marriott India,Hotel,Haryana,HOdal,High,3.9,Active,24-08-2011
+MER100366,BookMyShow,Entertainment,Rajasthan,Udaipur,Medium,3.8,Active,10-08-2014
+MER100367,MakeMyTrip Hotels,Hotel,West Bengal,Kolkata,Low,5,Active,15-09-2016
+MER100368,Wellness Forever,Pharmacy,Assam,Guwahati,High,3.7,Active,01-11-2009
+MER100369,Taj Hotels,Hotel,Tamil Nadu,Chennai,High,4.2,Active,07-07-2019
+MER100370,Wellness Forever,Pharmacy,West Bengal,Siliguri,Low,3.7,Active,16-02-2024
+MER100371,Trends,Fashion,Punjab,Bathinda,Low,4.9,Active,29-07-2025
+MER100372,Apollo Hospitals,Hospital,Rajasthan,Kota,Low,4.6,Active,18-01-2016
+MER100373,EatClub,Food Delivery,Kerala,Kochi,Low,3.7,Active,24-09-2023
+MER100374,Tata Play,Utilities,Madhya Pradesh,Indore,Low,4.8,Active,05-10-2018
+MER100375,Yatra,Travel,Tamil Nadu,Coimbatore,Medium,4.2,Active,09-03-2007
+MER100376,Snapdeal,Ecommerce,Tamil Nadu,Chennai,Low,4.6,Active,14-09-2014
+MER100377,Manipal Hospitals,Hospital,Kerala,Kollam,Low,3.6,Active,10-11-2018
+MER100378,MakeMyTrip,Travel,Bihar,Gaya,Medium,4.7,Active,25-05-2023
+MER100379,Razorpay,Financial Services,Telangana,Nizamabad,Medium,4.4,Active,03-01-2012
+MER100380,Taj Hotels,Hotel,Tamil Nadu,Salem,Low,4.3,Active,20-04-2021
+MER100381,Myntra,Fashion,Telangana,Warangal,Low,4.8,Active,23-06-2010
+MER100382,Redbus,Travel,Karnataka,Mangaluru,High,4.9,Active,09-06-2007
+MER100383,Marriott India,Hotel,Assam,Guwahati,Low,4.5,Active,18-05-2012
+MER100384,Snapdeal,Ecommerce,Haryana,Faridabad,Medium,3.8,Active,27-09-2023
+MER100385,Vi Bill,Utilities,Haryana,Faridabad,Low,4.1,Active,18-05-2009
+MER100386,Apollo Pharmacy,Pharmacy,Bihar,Bhagalpur,Low,4.2,Active,30-04-2026
+MER100387,Myntra,Fashion,Assam,Guwahati,Low,3.8,Active,06-01-2014
+MER100388,Indian Oil,Fuel,Bihar,Gaya,Low,4.5,Active,16-07-2016
+MER100389,Vi Bill,Utilities,Madhya Pradesh,Gwalior,Low,4.6,Active,20-01-2025
+MER100390,SpiceJet,Airline,Tamil Nadu,Chennai,Low,3.7,Active,11-10-2011
+MER100391,PayU,Financial Services,Uttar Pradesh,Varanasi,Low,4.5,Active,26-07-2013
+MER100392,Zepto,Grocery,Gujarat,Ahmedabad,Low,3.7,Active,07-05-2025
+MER100393,BigBasket,Grocery,Assam,Dibrugarh,Low,4.4,Active,20-12-2010
+MER100394,Razorpay,Financial Services,Tamil Nadu,Salem,Medium,4.9,Active,07-08-2013
+MER100395,Tata 1mg,Pharmacy,Bihar,Gaya,Low,5,Active,04-01-2007
+MER100396,Apollo Hospitals,Hospital,Rajasthan,Jaipur,Low,3.8,Active,13-11-2006
+MER100397,IRCTC,Travel,Bihar,Muzaffarpur,Medium,4.9,Active,08-05-2022
+MER100398,PhonePe,Financial Services,Karnataka,Hubballi-Dharwad,Low,4.8,Active,26-03-2023
+MER100399,Zara India,Fashion,Maharashtra,Nagpur,High,3.8,Active,09-05-2021
+MER100400,Bharat Petroleum,Fuel,Maharashtra,Thane,Low,4.7,Active,27-10-2009
+MER100401,Indian Oil,Fuel,Punjab,Patiala,Medium,4.1,Active,08-07-2013
+MER100402,Shell Station,Fuel,Odisha,Rourkela,Low,4.1,Active,06-04-2011
+MER100403,Cashfree,Financial Services,Uttar Pradesh,Varanasi,Low,4.3,Active,06-11-2021
+MER100404,SpiceJet,Airline,Haryana,HOdal,Medium,3.8,Active,22-10-2024
+MER100405,Redbus,Travel,West Bengal,Howrah,Low,4.8,Active,14-03-2019
+MER100406,SpiceJet,Airline,Punjab,Ludhiana,Medium,3.5,Active,22-08-2011
+MER100407,Myntra,Fashion,Telangana,Hyderabad,Low,3.9,Active,17-08-2021
+MER100408,Marriott India,Hotel,Assam,Silchar,Low,4.4,Active,10-06-2018
+MER100409,Samsung SmartCafe,Electronics,Tamil Nadu,Tiruchirappalli,Low,4.5,Active,22-04-2014
+MER100410,Shell Station,Fuel,Telangana,Hyderabad,High,4.9,Active,22-12-2024
+MER100411,Reliance Digital,Electronics,Kerala,Kochi,Low,4.9,Active,27-12-2010
+MER100412,PayU,Financial Services,Maharashtra,Mumbai,Medium,4.2,Active,29-10-2022
+MER100413,Samsung SmartCafe,Electronics,Tamil Nadu,Chennai,Medium,3.7,Active,16-07-2007
+MER100414,Bharat Petroleum,Fuel,Telangana,Karimnagar,Low,4.3,Active,08-12-2025
+MER100415,Manipal Hospitals,Hospital,Tamil Nadu,Salem,Low,4.4,Active,18-01-2025
+MER100416,Nykaa,Fashion,Karnataka,Mangaluru,Low,4.9,Active,04-01-2026
+MER100417,Jiomart,Ecommerce,Haryana,Gurugram,Low,4.1,Active,14-11-2022
+MER100418,Shell Station,Fuel,Maharashtra,Nagpur,Medium,4.4,Active,20-01-2023
+MER100419,Indian Oil,Fuel,Haryana,Nuh,Medium,3.6,Active,15-09-2024
+MER100420,Shell Station,Fuel,Madhya Pradesh,Indore,Medium,4,Active,28-03-2022
+MER100421,MakeMyTrip Hotels,Hotel,Telangana,Karimnagar,Low,4.4,Active,15-01-2026
+MER100422,Nykaa,Fashion,Punjab,Jalandhar,Low,4.3,Active,02-10-2013
+MER100423,Jiomart,Ecommerce,West Bengal,Durgapur,Low,4.9,Active,24-06-2025
+MER100424,Marriott India,Hotel,Madhya Pradesh,Gwalior,High,4.5,Inactive,26-07-2011
+MER100425,IndiGo,Airline,Kerala,Kozhikode,Low,5,Active,24-01-2015
+MER100426,MakeMyTrip,Travel,Odisha,Cuttack,Low,4.7,Active,14-02-2017
+MER100427,Udemy,Education,Tamil Nadu,Chennai,Low,4.7,Active,03-04-2012
+MER100428,Coursera,Education,Haryana,Nuh,Low,3.5,Active,03-01-2023
+MER100429,Zara India,Fashion,Madhya Pradesh,Ujjain,Medium,3.7,Active,06-07-2008
+MER100430,SpiceJet,Airline,West Bengal,Asansol,Low,4.4,Active,26-04-2017
+MER100431,Apollo Hospitals,Hospital,Karnataka,Mangaluru,Low,4.1,Active,03-06-2011
+MER100432,IRCTC,Travel,Gujarat,Gandhinagar,Medium,4.2,Active,22-10-2010
+MER100433,Reliance Smart,Grocery,Kerala,Thiruvananthapuram,Medium,4.5,Active,07-04-2018
+MER100434,Instamart,Grocery,Uttar Pradesh,Varanasi,Medium,4.8,Active,21-03-2018
+MER100435,Torrent Power,Utilities,Maharashtra,Pune,Low,4.5,Active,19-02-2014
+MER100436,Indian Oil,Fuel,Assam,Nagaon,Medium,3.7,Active,09-05-2012
+MER100437,Swiggy,Food Delivery,Kerala,Thrissur,High,3.8,Active,25-02-2007
+MER100438,Razorpay,Financial Services,Punjab,Jalandhar,Medium,3.8,Active,04-12-2013
+MER100439,OYO Rooms,Hotel,West Bengal,Durgapur,Low,4.3,Active,21-02-2007
+MER100440,Udemy,Education,Assam,Jorhat,Low,4.8,Active,02-01-2013
+MER100441,Ajio,Fashion,Telangana,Nizamabad,Medium,4.4,Inactive,25-05-2024
+MER100442,Croma,Electronics,Rajasthan,Bikaner,Medium,4.5,Active,21-12-2015
+MER100443,SpiceJet,Airline,West Bengal,Kolkata,Low,4.9,Active,19-11-2015
+MER100444,Reliance Digital,Electronics,Punjab,Jalandhar,High,3.9,Active,04-04-2024
+MER100445,Instamart,Grocery,Punjab,Bathinda,Medium,4.2,Active,22-11-2022
+MER100446,MakeMyTrip,Travel,Bihar,Gaya,Low,4.4,Active,17-08-2013
+MER100447,Myntra,Fashion,Karnataka,Mysuru,Medium,4.8,Active,19-04-2019
+MER100448,Amazon,Ecommerce,Bihar,Patna,High,3.6,Active,21-03-2016
+MER100449,Zomato,Food Delivery,Bihar,Gaya,Low,4.4,Active,19-02-2018
+MER100450,Tata Cliq,Ecommerce,Uttar Pradesh,Ghaziabad,Medium,3.6,Active,07-02-2012
+MER100451,MakeMyTrip Hotels,Hotel,Rajasthan,Bharatpur,Low,4.8,Active,16-11-2014
+MER100452,H&M India,Fashion,Maharashtra,Nashik,Medium,3.7,Active,22-11-2018
+MER100453,OYO Rooms,Hotel,Maharashtra,Nashik,Low,4.6,Active,11-03-2021
+MER100454,Redbus,Travel,Maharashtra,Pune,Medium,4.1,Active,21-12-2017
+MER100455,Bharat Petroleum,Fuel,Gujarat,Vadodara,Low,3.6,Active,26-10-2010
+MER100456,Apollo Hospitals,Hospital,Punjab,Jalandhar,Low,4.3,Active,03-02-2017
+MER100457,Apollo Hospitals,Hospital,Odisha,Bhubaneswar,Medium,3.9,Active,11-03-2016
+MER100458,Jio-bp,Fuel,Gujarat,Vadodara,Low,4.4,Inactive,28-08-2019
+MER100459,Croma,Electronics,Maharashtra,Aurangabad,Medium,3.9,Active,15-10-2024
+MER100460,Domino's India,Food Delivery,Kerala,Thiruvananthapuram,Medium,4.2,Active,01-12-2014
+MER100461,Wellness Forever,Pharmacy,West Bengal,Siliguri,Low,4.6,Active,29-09-2016
+MER100462,Instamart,Grocery,Tamil Nadu,Tiruchirappalli,Low,4.3,Active,04-04-2010
+MER100463,Zepto,Grocery,Maharashtra,Pune,Medium,3.6,Active,22-12-2017
+MER100464,IndiGo,Airline,Gujarat,Surat,Low,4.4,Active,28-11-2023
+MER100465,MakeMyTrip Hotels,Hotel,Rajasthan,Kota,Medium,4.6,Active,25-05-2020
+MER100466,Ajio,Fashion,West Bengal,Durgapur,Low,4.2,Active,15-12-2006
+MER100467,OYO Rooms,Hotel,Bihar,Bhagalpur,Low,3.7,Active,31-08-2009
+MER100468,Meesho,Ecommerce,Uttar Pradesh,Agra,Low,3.6,Active,19-04-2022
+MER100469,Nykaa,Fashion,Uttar Pradesh,Noida,Medium,4.3,Active,10-10-2025
+MER100470,Marriott India,Hotel,Karnataka,Belagavi,Low,4.7,Active,08-03-2026
+MER100471,Instamart,Grocery,Assam,Silchar,Low,4.6,Active,29-09-2010
+MER100472,BigBasket,Grocery,Kerala,Thiruvananthapuram,Low,3.7,Active,08-03-2007
+MER100473,Domino's India,Food Delivery,Punjab,Bathinda,Low,3.6,Active,21-06-2007
+MER100474,Uber India,Travel,Uttar Pradesh,Agra,Low,3.9,Active,09-06-2011
+MER100475,Torrent Power,Utilities,Bihar,Gaya,Low,4.2,Active,09-02-2025
+MER100476,Akasa Air,Airline,Telangana,Karimnagar,Low,4.7,Active,19-06-2023
+MER100477,Vi Bill,Utilities,Haryana,Nuh,Low,4.7,Active,16-05-2013
+MER100478,Swiggy,Food Delivery,Odisha,Sambalpur,Low,3.9,Active,23-07-2014
+MER100479,SpiceJet,Airline,Uttar Pradesh,Ghaziabad,Low,3.8,Active,07-03-2025
+MER100480,Manipal Hospitals,Hospital,Odisha,Bhubaneswar,Medium,4.7,Active,21-02-2012
+MER100481,MakeMyTrip Hotels,Hotel,Punjab,Patiala,Low,4.9,Active,22-01-2007
+MER100482,BookMyShow,Entertainment,Bihar,Gaya,Low,4.4,Active,15-10-2019
+MER100483,Jiomart,Ecommerce,Rajasthan,Kota,Low,4.8,Active,17-08-2024
+MER100484,HP Lubricants,Fuel,Bihar,Purnia,Low,4,Active,09-06-2014
+MER100485,BookMyShow,Entertainment,Madhya Pradesh,Ujjain,Low,3.6,Active,21-10-2018
+MER100486,Trends,Fashion,Assam,Dibrugarh,Low,4.6,Active,05-09-2017
+MER100487,PVR Inox,Entertainment,Uttar Pradesh,Ghaziabad,Low,4.8,Active,28-07-2014
+MER100488,Indian Oil,Fuel,Tamil Nadu,Coimbatore,Low,4.5,Active,26-07-2019
+MER100489,Zara India,Fashion,Tamil Nadu,Madurai,Low,4.4,Active,21-06-2019
+MER100490,Ola Cabs,Travel,Rajasthan,Bikaner,Medium,3.9,Active,27-10-2014
+MER100491,Goibibo,Travel,Odisha,Cuttack,Low,4.3,Active,07-09-2008
+MER100492,Paytm,Financial Services,Tamil Nadu,Salem,High,4,Active,05-10-2014
+MER100493,PVR Inox,Entertainment,West Bengal,Kolkata,High,4.7,Active,26-03-2020
+MER100494,Google Pay,Financial Services,Bihar,Bhagalpur,Low,3.8,Active,27-03-2014
+MER100495,Ola Cabs,Travel,Rajasthan,Jodhpur,High,4.6,Active,30-09-2017
+MER100496,IRCTC,Travel,Assam,Silchar,Low,4.5,Active,19-04-2009
+MER100497,Apple Store,Electronics,Madhya Pradesh,Jabalpur,Low,3.5,Active,29-08-2018
+MER100498,Tata Cliq,Ecommerce,Bihar,Bhagalpur,Low,4.5,Active,13-10-2014
+MER100499,Amazon Prime Video,Entertainment,Assam,Dibrugarh,High,4.7,Active,27-01-2025
+MER100500,MakeMyTrip Hotels,Hotel,Gujarat,Bhavnagar,Medium,3.8,Active,31-01-2017
