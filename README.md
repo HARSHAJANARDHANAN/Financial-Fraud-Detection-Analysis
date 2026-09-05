@@ -1,4 +1,4 @@
-# Financial Fraud Detection Analysis
+# End-to-End Financial Fraud Detection Analysis
 
 An end-to-end **Financial Fraud Detection & Analysis** project using **MySQL, Excel, Python, and Power BI** to identify fraud patterns, high-risk transaction characteristics, and high-value fraudulent activity.
 
